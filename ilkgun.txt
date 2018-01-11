@@ -1,0 +1,10 @@
+İlk Gün neler yaptık?
+
+Intellij kuruldu.(Hatalı kurulum yapmış olabilirim.)
+Linux "uçbirim" komutları üstünde duruldu. Tüm işleri burdan halletmeye özen gösterildi.
+Youtube da verilen videolardan Linux ile ilgili olanlara bakıldı.
+GitHub'a üye olundu.
+Git ile ilgili araştırmalar yapıldı.
+Git ile ilgili alıştırmalar yapıldı.(Özellikle https://github.com/aliozgur/git_alistirmalar sitesinde ki alıştırmaları yapıp denemeye çalıştım.)
+Git ile ilgili komutlarla alıştırmalar yaptım. Proje00 klasörü oluşturdum.
+Şuan da tüm bunları da uçbirimde oluşturduğum ilkgun.txt dosyasıyla yine uçbirim üzerinden nano komutuyla düzenleyerek yazıyorum.
