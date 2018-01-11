@@ -8,3 +8,6 @@ Git ile ilgili araştırmalar yapıldı.
 Git ile ilgili alıştırmalar yapıldı.(Özellikle https://github.com/aliozgur/git_alistirmalar sitesinde ki alıştırmaları yapıp denemeye çalıştım.)
 Git ile ilgili komutlarla alıştırmalar yaptım. Proje00 klasörü oluşturdum.
 Şuan da tüm bunları da uçbirimde oluşturduğum ilkgun.txt dosyasıyla yine uçbirim üzerinden nano komutuyla düzenleyerek yazıyorum.
+
+ 
+"GitHub da çalışma şeklini test ediyorum"

@@ -1,0 +1,3 @@
+#git 
+
+Git nasıl kullanılır öğrenmeye çalışıyoruum.
